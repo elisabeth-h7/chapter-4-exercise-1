@@ -5,4 +5,6 @@ In your README.md document, put your favorite quote in a block quote, and provid
 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
-> “I would sooner be a foreigner in Spain than in most countries. How easy it is to make friends in Spain!” – George Orwell [source] https://takelessons.com/blog/best-travel-quotes-z03
+> “I would sooner be a foreigner in Spain than in most countries. How easy it is to make friends in Spain!” – George Orwell [source](https://takelessons.com/blog/best-travel-quotes-z03)
+
+> "The future belongs to those who believe in the beauty of their dreams” -Eleanor Roosevelt [source](https://www.goodreads.com/author/quotes/44566.Eleanor_Roosevelt)
